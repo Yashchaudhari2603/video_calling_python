@@ -1,4 +1,4 @@
-# video_calling_python
+# video_calling_app_python
 Python based application for video calling...
 
 Task Description 📄
